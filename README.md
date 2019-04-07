@@ -1,12 +1,12 @@
 # HW3
 
 Задание 1
-1.3 ![конкорданс1.png](https://github.com/XakerV/HW3/blob/master/%D0%BA%D0%BE%D0%BD%D0%BA%D0%BE%D1%80%D0%B4%D0%B0%D0%BD%D1%811.png)
-1.4 ![конкорданс2.png](https://github.com/XakerV/HW3/blob/master/%D0%BA%D0%BE%D0%BD%D0%BA%D0%BE%D1%80%D0%B4%D0%B0%D0%BD%D1%812.png)
-1.4 ![конкорданс3.png](https://github.com/XakerV/HW3/blob/master/%D0%BA%D0%BE%D0%BD%D0%BA%D0%BE%D1%80%D0%B4%D0%B0%D0%BD%D1%813.png)
-1.4 ![частсписок.jpg](https://github.com/XakerV/HW3/blob/master/%D1%87%D0%B0%D1%81%D1%82%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA.jpg)
-1.5 ![конкорданссочетания.jpg](https://github.com/XakerV/HW3/blob/master/%D0%BA%D0%BE%D0%BD%D0%BA%D0%BE%D1%80%D0%B4%D0%B0%D0%BD%D1%81%D1%81%D0%BE%D1%87%D0%B5%D1%82%D0%B0%D0%BD%D0%B8%D1%8F.jpg)
-1.6 ![коллокат.png](https://github.com/XakerV/HW3/blob/master/%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B0%D1%82.png)
+ ![конкорданс1.png](https://github.com/XakerV/HW3/blob/master/%D0%BA%D0%BE%D0%BD%D0%BA%D0%BE%D1%80%D0%B4%D0%B0%D0%BD%D1%811.png)
+ ![конкорданс2.png](https://github.com/XakerV/HW3/blob/master/%D0%BA%D0%BE%D0%BD%D0%BA%D0%BE%D1%80%D0%B4%D0%B0%D0%BD%D1%812.png)
+ ![конкорданс3.png](https://github.com/XakerV/HW3/blob/master/%D0%BA%D0%BE%D0%BD%D0%BA%D0%BE%D1%80%D0%B4%D0%B0%D0%BD%D1%813.png)
+ ![частсписок.jpg](https://github.com/XakerV/HW3/blob/master/%D1%87%D0%B0%D1%81%D1%82%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA.jpg)
+ ![конкорданссочетания.jpg](https://github.com/XakerV/HW3/blob/master/%D0%BA%D0%BE%D0%BD%D0%BA%D0%BE%D1%80%D0%B4%D0%B0%D0%BD%D1%81%D1%81%D0%BE%D1%87%D0%B5%D1%82%D0%B0%D0%BD%D0%B8%D1%8F.jpg)
+ ![коллокат.png](https://github.com/XakerV/HW3/blob/master/%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B0%D1%82.png)
 
 Задание 2
 Одно из устаревших слов — «алчба». В современном языке его заменило слово «алчность». По данным Google Ngrams такого слова нет, оно не использовалось не в 1800 году, не в 2000. У алчности показатели другие: наиболее употребительно оно было в период с 1800 по 1820, далее же показатели все уменьшаются. НКРЯ слово алчба в отличие от предыдущего корпуса находит. Пик употребления пришёлся на 1870-е год. Также относительно популярно было оно с период с 1920 по 1930 гг. Но по сравнению с 0,50 (максимальный показатель алчбы), у алчности максимальный показатель — 7,7, а пик употребления приходится на 1800 годы. Видимо, НКРЯ обхватывает куда больше текстов, а значит этому корпусу я доверяла бы больше 
