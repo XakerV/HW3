@@ -1,7 +1,7 @@
 # HW3
 
 Задание 1
-1.3 ![конкорданс1.png](http://github.com/XakerV/HW3/blog/master/конкорданс1.png)
+1.3 ![конкорданс1.png](https://github.com/XakerV/HW3/blob/master/%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B0%D1%82.png)
 1.4 ![конкорданс2.png](http://github.com/XakerV/HW3/blog/master/конкорданс2.png)
 1.4 ![конкорданс3.png](http://github.com/XakerV/HW3/blog/master/конкорданс3.png)
 1.4 ![частсписок.jpg](http://github.com/XakerV/HW3/blog/master/частсписок.jpg)
